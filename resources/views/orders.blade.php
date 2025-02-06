@@ -1,6 +1,6 @@
 @extends('layout')
 @section('title')
-    Главная
+    Заказы
 @endsection
 @section('main_content')
     <div class="main-content">

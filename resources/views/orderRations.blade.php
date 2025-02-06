@@ -1,6 +1,6 @@
 @extends('layout')
 @section('title')
-    Главная
+    Рационы
 @endsection
 @section('main_content')
     <div class="main-content">
